@@ -7,7 +7,17 @@ const skills = [
   "IAM",
   "Docker",
   "Kubernetes",
-
+  "Linux",
+  "Shell Scripting",
+  "React",
+  "Node.js",
+  "Git",
+  "GitHub",
+  "CI/CD",
+  "Terraform",
+  "Jenkins",
+  "Ansible",
+  
 ];
 const projects = [
   {
