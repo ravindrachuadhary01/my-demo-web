@@ -16,6 +16,7 @@ const skills = [
   "CI/CD",
   "Terraform",
   "Jenkins",
+  "Ansible",
 ];
 const projects = [
   {
