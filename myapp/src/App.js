@@ -14,6 +14,8 @@ const skills = [
   "Git",
   "GitHub",
   "CI/CD",
+  "Terraform",
+  "Jenkins",
 ];
 const projects = [
   {
