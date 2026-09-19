@@ -49,7 +49,7 @@ export default function App() {
         <div className="nav-links">
           <a href="#about">About</a>
           <a href="#skills">Skills</a>
-          <a href="#projects">Projects</a>
+          <a href="#projects">Projects1</a>
           <a href="www.linkedin.com/in/ravindra-singh-r45">Contact</a>
         </div>
       </nav>
