@@ -50,7 +50,7 @@ export default function App() {
           <a href="#about">About</a>
           <a href="#skills">Skills</a>
           <a href="#projects">Projects</a>
-          <a href="www.linkedin.com/in/ravindra-singh-r45">Contact</a>
+          <a href="https://linkedin.com/in/ravindra-singh-r45ravindra-singh-r45">Contact</a>
         </div>
       </nav>
 
@@ -131,7 +131,7 @@ My goal is to become a skilled DevOps and Cloud Engineer capable of building rel
             GitHub
           </a>
 
-          <a href="www.linkedin.com/in/ravindra-singh-r45" target="_blank" rel="noreferrer">
+          <a href="https://linkedin.com/in/ravindra-singh-r45ravindra-singh-r45" target="_blank" rel="noreferrer">
             LinkedIn
           </a>
         </div>
